@@ -5,3 +5,5 @@ Sumo robot for OIC International Robotics competition
 
 Case drawn by AutoCAD
 Code writen by Arduino
+
+![img](sumo.png)
